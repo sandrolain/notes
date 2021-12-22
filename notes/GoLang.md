@@ -1,6 +1,6 @@
 # GoLang
 
-## Chosen Libraries
+## Libraries
 
 - [GeoService in Go](https://github.com/codingsince1985/geo-golang)
 - [Redis client for Golang](https://github.com/go-redis/redis)
@@ -10,6 +10,11 @@
 - [go-qrcode](https://github.com/yeqown/go-qrcode)
 - [Gomail](https://pkg.go.dev/gopkg.in/mail.v2)
 - [Ristretto (In-memory cache)](https://github.com/dgraph-io/ristretto)
+- [GoAdmin: Backend Data Admin Panel](https://www.go-admin.com/) 
+
+### Libraries for Testing
+- [Miniredis: Pure Go Redis test server](https://github.com/alicebob/miniredis) 
+
 
 ## Guides
 
@@ -17,6 +22,7 @@
 - [Golang By Example](https://golangbyexample.com/)
 - [go-patterns](https://github.com/tmrts/go-patterns)
 - [Go modules by example](https://github.com/go-modules-by-example/index)
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout) 
 
 
 ## Commands
