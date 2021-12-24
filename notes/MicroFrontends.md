@@ -7,13 +7,14 @@
 - [**Hypernova**: A service for server-side rendering your JavaScript views (by Airbnb)](https://github.com/airbnb/hypernova)
 - [**Tailor** (by Zalando)](https://github.com/zalando/tailor)
 
+## Docs
+- [micro-frontends.org](https://micro-frontends.org/)
+- [martinfowler.com: Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 
-## Talk
+## Talks
 - [2018-06-12: Michael Geers: Micro Frontends - Think Smaller, Avoid the Monolith, ❤️the Backend | Web Rebels 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
 
-
 ## Articles
-
 - [The Strengths and Benefits of Micro Frontends](https://www.toptal.com/front-end/micro-frontends-strengths-benefits)
 - [2021-12-08: 5 Reasons You Should Adopt a Micro Frontend Architecture](https://www.sitepoint.com/micro-frontend-architecture-benefits/)
 - [2021-08-24: Micro Frontend Guide: Technical Integrations](https://www.trendmicro.com/ru_ru/devops/21/h/micro-frontend-guide-technical-integrations.html)
