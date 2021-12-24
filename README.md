@@ -9,3 +9,4 @@ Personal notes repository
 - [RaspberryPI](notes/RaspberryPi.md)
 - [Apps](notes/Apps.md) 
 - [Web Components](notes/Apps.md)
+- [Micro Frontends](notes/MicroFrontends.md)
