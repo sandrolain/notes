@@ -11,6 +11,10 @@
 - [micro-frontends.org](https://micro-frontends.org/)
 - [martinfowler.com: Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 
+## Books
+- [**Building Micro-Frontends** by Luca Mezzalira](https://www.buildingmicrofrontends.com/)
+- [**Micro Frontends in Action** by Michael Geers](https://www.manning.com/books/micro-frontends-in-action)
+
 ## Talks
 - [2018-06-12: Michael Geers: Micro Frontends - Think Smaller, Avoid the Monolith, ❤️the Backend | Web Rebels 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
 
