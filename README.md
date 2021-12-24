@@ -8,5 +8,5 @@ Personal notes repository
 - [Infrastructure Services](notes/InfrastructureServices.md)
 - [RaspberryPI](notes/RaspberryPi.md)
 - [Apps](notes/Apps.md) 
-- [Web Components](notes/Apps.md)
+- [Web Components](notes/WebComponents.md)
 - [Micro Frontends](notes/MicroFrontends.md)
