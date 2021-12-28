@@ -2,6 +2,8 @@
 
 
 ## Libraries and Frameworks
+- [**single-spa**: A javascript router for front-end microservices](https://single-spa.js.org/)
+- [**qiankun**](https://qiankun.umijs.org/)
 - [**OpenComponents**: Painless micro frontends delivery (by OpenTable)](https://opencomponents.github.io/)
 - [**Luigi**: The Enterprise-Ready Micro Frontend Framework (by SAP)](https://luigi-project.io/) 
 - [**Hypernova**: A service for server-side rendering your JavaScript views (by Airbnb)](https://github.com/airbnb/hypernova)
@@ -16,6 +18,7 @@
 - [**Micro Frontends in Action** by Michael Geers](https://www.manning.com/books/micro-frontends-in-action)
 
 ## Talks
+- [2021-10-28: Azizi Yazit: Design System For Micro-Frontends](https://www.conf42.com/JavaScript_2021_Azizi_Yazit_System_MicroFrontends)
 - [2018-06-12: Michael Geers: Micro Frontends - Think Smaller, Avoid the Monolith, ❤️the Backend | Web Rebels 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
 
 ## Articles
@@ -27,3 +30,7 @@
 	- [2021-03-21: Micro Frontends: from Fragments to Renderers (Part 1)](https://engineering.zalando.com/posts/2021/03/micro-frontends-part1.html)
 	- [2018-12-06: Front-End Micro Services](https://engineering.zalando.com/posts/2018/12/front-end-micro-services.html)
 - [2016-03-12: Managing Frontend in the Microservices Architecture](https://blog.allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html)
+
+
+## Other
+- [Awesome Micro-Frontends](https://github.com/rajasegar/awesome-micro-frontends)
