@@ -16,6 +16,10 @@
 - [Miniredis: Pure Go Redis test server](https://github.com/alicebob/miniredis) 
 
 
+## WebAssembly
+- [GoLang WebAssembly](https://github.com/golang/go/wiki/WebAssembly)
+- [Configure Go Build Constraints in VS Code to work with WebAssembly](https://egghead.io/lessons/go-configure-go-build-constraints-in-vs-code-to-work-with-webassembly)
+
 ## Guides
 
 - [Go by Example](https://gobyexample.com/)

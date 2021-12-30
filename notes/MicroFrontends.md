@@ -2,12 +2,24 @@
 
 
 ## Libraries and Frameworks
+
+### Client Side
 - [**single-spa**: A javascript router for front-end microservices](https://single-spa.js.org/)
 - [**qiankun**](https://qiankun.umijs.org/)
-- [**OpenComponents**: Painless micro frontends delivery (by OpenTable)](https://opencomponents.github.io/)
 - [**Luigi**: The Enterprise-Ready Micro Frontend Framework (by SAP)](https://luigi-project.io/) 
+- [**OpenComponents**: Painless micro frontends delivery (by OpenTable)](https://opencomponents.github.io/)
+- [**h-include**: Declarative client-side transclusion](https://github.com/gustafnk/h-include)
+- [**Mashroom Server**: Microfrontend Integration Platform**](https://www.mashroom-server.com/)
+
+### Server Side
+- [**Podium**: Easy server side composition of microfrontends](https://podium-lib.io/)
+- [**PuzzleJS**: Micro frontend framework for scalable and blazing fast websites](https://github.com/puzzle-js/puzzle-js)
 - [**Hypernova**: A service for server-side rendering your JavaScript views (by Airbnb)](https://github.com/airbnb/hypernova)
+- [**ARA Framework**: Build Micro-frontends easily using Airbnb Hypernova](https://ara-framework.github.io/website/)
 - [**Tailor** (by Zalando)](https://github.com/zalando/tailor)
+
+### Edge Side
+- [Akamai Edge Side Includes (ESI) Test Server](https://github.com/akamai/esi-test-server-docker)
 
 ## Docs
 - [micro-frontends.org](https://micro-frontends.org/)
@@ -30,6 +42,10 @@
 	- [2021-03-21: Micro Frontends: from Fragments to Renderers (Part 1)](https://engineering.zalando.com/posts/2021/03/micro-frontends-part1.html)
 	- [2018-12-06: Front-End Micro Services](https://engineering.zalando.com/posts/2018/12/front-end-micro-services.html)
 - [2016-03-12: Managing Frontend in the Microservices Architecture](https://blog.allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html)
+
+## GoLang Webassembly for micro-frontends
+- [WebAssembly Microfrontends](https://medium.com/mashroom-server/writing-webassembly-powered-microfrontends-8f8f0c961a88)
+	- [mashroom-portal-demo-go-wasm-app](https://github.com/nonblocking/mashroom-portal-demo-go-wasm-app)
 
 
 ## Other
