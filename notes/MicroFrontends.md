@@ -10,6 +10,7 @@
 - [**OpenComponents**: Painless micro frontends delivery (by OpenTable)](https://opencomponents.github.io/)
 - [**h-include**: Declarative client-side transclusion](https://github.com/gustafnk/h-include)
 - [**Mashroom Server**: Microfrontend Integration Platform**](https://www.mashroom-server.com/)
+- [**Fronts**: progressive micro frontends framework based on the module federation of Webpack](https://github.com/unadlib/fronts)
 
 ### Server Side
 - [**Podium**: Easy server side composition of microfrontends](https://podium-lib.io/)
@@ -20,6 +21,10 @@
 
 ### Edge Side
 - [Akamai Edge Side Includes (ESI) Test Server](https://github.com/akamai/esi-test-server-docker)
+
+### Other
+- [**Lerna**: A tool for managing JavaScript projects with multiple packages.](https://lerna.js.org/)
+- [**Nano Events**: Simple and tiny event emitter library for JavaScript](https://github.com/ai/nanoevents)
 
 ## Docs
 - [micro-frontends.org](https://micro-frontends.org/)

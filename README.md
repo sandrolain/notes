@@ -1,4 +1,4 @@
-# notes
+# Notes
 Personal notes repository
 
 - [GoLang](notes/GoLang.md)
@@ -8,5 +8,7 @@ Personal notes repository
 - [Infrastructure Services](notes/InfrastructureServices.md)
 - [RaspberryPI](notes/RaspberryPi.md)
 - [Apps](notes/Apps.md) 
-- [Web Components](notes/WebComponents.md)
+- [Custom Elements](CustomElements.md)
 - [Micro Frontends](notes/MicroFrontends.md)
+- [Patterns & Refactoring](notes/Patterns.md)
+- [Flutter](notes/Flutter.md)

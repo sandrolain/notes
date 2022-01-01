@@ -20,6 +20,9 @@
 - [GoLang WebAssembly](https://github.com/golang/go/wiki/WebAssembly)
 - [Configure Go Build Constraints in VS Code to work with WebAssembly](https://egghead.io/lessons/go-configure-go-build-constraints-in-vs-code-to-work-with-webassembly)
 
+## Articles
+- [Errors and Error Wrapping in Go](https://trstringer.com/errors-and-error-wrapping-go/)
+
 ## Guides
 
 - [Go by Example](https://gobyexample.com/)

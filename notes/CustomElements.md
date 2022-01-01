@@ -29,6 +29,7 @@
 - [Ficus.js](https://www.ficusjs.org/) 
 
 
-## Web Components Collection
-
+## Custom Elements Collection
+- [**md-block**: Render styleable Markdown in your HTML](https://md-block.verou.me/)  
+- [**h-include**: Declarative client-side transclusion](https://github.com/gustafnk/h-include)
 - [Awesome Standalones](https://github.com/davatron5000/awesome-standalones)
