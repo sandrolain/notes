@@ -36,6 +36,7 @@
 
 ## Talks
 - [2021-10-28: Azizi Yazit: Design System For Micro-Frontends](https://www.conf42.com/JavaScript_2021_Azizi_Yazit_System_MicroFrontends)
+- [2020-09-07: The Story of Micro Frontends](https://www.youtube.com/watch?v=Cbju5GSF1KU)
 - [2018-06-12: Michael Geers: Micro Frontends - Think Smaller, Avoid the Monolith, ❤️the Backend | Web Rebels 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
 
 ## Articles
@@ -55,3 +56,39 @@
 
 ## Other
 - [Awesome Micro-Frontends](https://github.com/rajasegar/awesome-micro-frontends)
+
+
+
+[2021-03-04: Micro-frontend Architectures on AWS](https://aws.amazon.com/blogs/architecture/micro-frontend-architectures-on-aws/)
+[2020-09-04: What Are Micro Frontends? Is It Even Necessary to Use Them?](https://betterprogramming.pub/what-are-micro-frontends-is-it-even-necessary-to-use-them-f1393d65ef2f)
+
+[2020-06-20: Micro Frontends: How It Changed Our Development Process](https://medium.com/trendyol-tech/micro-frontends-how-it-changed-our-development-process-a5cf667356da)
+
+[2020-09-07: The Story of Micro Frontends](https://medium.com/@infoxicator/the-story-of-micro-frontends-e6cfa5752939)
+
+
+
+
+
+https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc
+
+https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0
+
+https://blog.bitsrc.io/11-popular-misconceptions-about-micro-frontends-d5daecc92efb
+
+https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b
+
+
+https://blog.bitsrc.io/cross-framework-components-8439d58342e5
+
+
+https://blog.bitsrc.io/communication-between-micro-frontends-67a745c6cfbe
+
+
+How We Build Micro Frontends. Building micro-frontends to speed up… | by Jonathan Saring | Aug, 2020 | Bits and Pieces
+
+micro-frontends decisions framework - Presentazioni Google
+
+https://github.com/marcinmilewicz/microfrontendly
+
+https://gist.github.com/f8cc3c939971a7b66436ba3ab3037094
