@@ -17,3 +17,5 @@
 - [NodeJS](notes/NodeJS.md)
 - [Deno](notes/Deno.md)
 - [Apps](notes/Apps.md)
+- [Online Courses](notes/OnlineCourses.md)
+- [References](notes/References.md)
