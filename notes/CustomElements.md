@@ -12,6 +12,9 @@
 ## Docs
 - [ElementInternals](https://developer.mozilla.org/en-US/docs/Web/API/ElementInternals)
 
+## Projects
+- [Open Web Components](https://open-wc.org)
+
 ## Polyfills
 - [element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill)
 
@@ -22,12 +25,11 @@
 - [Svelte Custom element API](https://svelte.dev/docs#run-time-custom-element-api)
 
 ## Libraries and Frameworks
-
 - [Lit](https://lit.dev/)
 - [Fast](https://www.fast.design/)
 - [Catalyst (GitHub)](https://github.github.io/catalyst/)
-- [Ficus.js](https://www.ficusjs.org/) 
-
+- [Ficus.js](https://www.ficusjs.org/)
+- [**readymade**: TypeScript Decorators for Web Components](https://readymade-ui.github.io/readymade/)
 
 ## Custom Elements Collection
 - [**md-block**: Render styleable Markdown in your HTML](https://md-block.verou.me/)  
