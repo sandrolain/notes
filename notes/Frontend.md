@@ -3,10 +3,10 @@
 ## Tools
 ### Frontend Dev & Build Tools
 - [**Vite**: Next Generation Frontend Tooling](https://vitejs.dev)
+- [**Snowpack**: The faster frontend build tool](https://www.snowpack.dev/)
 
 #### Webpack
 - [**sass-to-string**: webpack loader that transform your SCSS file in a javascript string](https://github.com/m4thieulavoie/sass-to-string)
-
 
 ### Testing
 - [**jest-fetch-mock**: Jest mock for fetch](https://github.com/jefflau/jest-fetch-mock)
@@ -32,10 +32,20 @@
 ### Scroll Animations
 - [**AOS**: Animate On Scroll Library](https://michalsnik.github.io/aos/)
 
+### Metrics
+- [**uxm**: An utility library for collecting user-centric performance metrics](https://github.com/treosh/uxm)
+- [**opentelemetry**: framework for collecting traces and metrics from applications](https://github.com/open-telemetry/opentelemetry-js) 
 
 ## Guides
 
+- [Front end observability](https://dev.to/omrilotan/front-end-observability-a-practical-guide-to-browser-error-monitoring-2gcm)
 - [Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
 - [Natively Format JavaScript Dates and Times](https://elijahmanor.com/blog/format-js-dates-and-times)
 - [Natively Format JavaScript Numbers](https://elijahmanor.com/blog/format-js-numbers)
 - [How to Create Native Drag and Drop Functionality in JavaScript](https://javascript.plainenglish.io/how-to-create-native-drag-and-drop-functionality-in-javascript-d7940a3f55da)
+
+
+### DDD
+- [DDD, hexagonal architecture and frontend: What is this all about?](https://medium.com/game-development-stuff/ddd-hexagonal-architecture-and-frontend-what-is-this-all-about-e1568a9053c4)
+- [Does DDD Belong on the Frontend? - Domain-Driven Design w/ TypeScript](https://khalilstemmler.com/articles/typescript-domain-driven-design/ddd-frontend/)
+- [Domain-Driven Frontend](https://www.flowing.it/talk/domain-driven-frontend/)
