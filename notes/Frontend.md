@@ -39,6 +39,7 @@
 ## Guides
 
 - [Front end observability](https://dev.to/omrilotan/front-end-observability-a-practical-guide-to-browser-error-monitoring-2gcm)
+- [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
 - [Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
 - [Natively Format JavaScript Dates and Times](https://elijahmanor.com/blog/format-js-dates-and-times)
 - [Natively Format JavaScript Numbers](https://elijahmanor.com/blog/format-js-numbers)
