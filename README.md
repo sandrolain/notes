@@ -1,6 +1,6 @@
-# Notes
+# Personal notes repository
 
-## Personal notes repository
+*This isn't awesome, maybe*
 
 - [GoLang](notes/GoLang.md)
 - [MySQL/MariaDB](notes/MySQL.md)
@@ -11,6 +11,7 @@
 - [Frontend](notes/Frontend.md)
 - [JavaScript](notes/JavaScript.md)
 - [CSS](notes/CSS.md)
+- [UX](notes/UX.md)
 - [Custom Elements](CustomElements.md)
 - [Micro Frontends](notes/MicroFrontends.md)
 - [Patterns & Refactoring](notes/Patterns.md)
