@@ -9,6 +9,7 @@
 - [Infrastructure Services](notes/InfrastructureServices.md)
 - [RaspberryPI](notes/RaspberryPi.md)
 - [Frontend](notes/Frontend.md)
+- [JavaScript](notes/JavaScript.md)
 - [CSS](notes/CSS.md)
 - [Custom Elements](CustomElements.md)
 - [Micro Frontends](notes/MicroFrontends.md)
