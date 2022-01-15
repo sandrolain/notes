@@ -14,6 +14,8 @@
 - [UX](notes/UX.md)
 - [Custom Elements](CustomElements.md)
 - [Micro Frontends](notes/MicroFrontends.md)
+- [AngularJS](notes/AngularJS.md)
+- [React](notes/React.md)
 - [Patterns & Refactoring](notes/Patterns.md)
 - [Flutter](notes/Flutter.md)
 - [Markdown](notes/Markdown.md)
