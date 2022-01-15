@@ -20,6 +20,12 @@
 - [**jwt**: A go implementation of JSON Web Tokens](https://github.com/golang-jwt/jwt)
 - [**go-colorful**: A library for playing with colors in go](https://github.com/lucasb-eyer/go-colorful)
 
+### Logging
+- [**zap**: Blazing fast, structured, leveled logging in Go](https://github.com/uber-go/zap)
+
+### JSON
+- [**sonic**: A blazingly fast JSON serializing & deserializing library](https://github.com/bytedance/sonic)
+
 ### Libraries for Testing
 - [Miniredis: Pure Go Redis test server](https://github.com/alicebob/miniredis) 
 

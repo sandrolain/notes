@@ -71,6 +71,9 @@
 - [WebAssembly Microfrontends](https://medium.com/mashroom-server/writing-webassembly-powered-microfrontends-8f8f0c961a88)
 	- [mashroom-portal-demo-go-wasm-app](https://github.com/nonblocking/mashroom-portal-demo-go-wasm-app)
 
+## Examples
+- [Micro-Frontends with Webpack Module Federation](https://github.com/aws-samples/talk-dev-to-me-twitch/tree/main/micro-frontends-module-federation)
+
 ## Other
 - [Awesome Micro-Frontends](https://github.com/rajasegar/awesome-micro-frontends)
 - [2020-09-12: Frontend Architectural Patterns: Backends-For-Frontends](https://medium.com/frontend-at-scale/frontend-architectural-patterns-backend-for-frontend-29679aba886c)
