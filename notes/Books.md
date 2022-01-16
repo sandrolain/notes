@@ -3,10 +3,13 @@
 ## Coding
 - [**Five Lines of Code** (*Christian Clausen*)](https://www.manning.com/books/five-lines-of-code)
 - [**Street Coder** (*Sedat Kapanoglu*)](https://www.manning.com/books/street-coder)
-- [](https://www.manning.com/books/good-code-bad-code)
+- [**Good Code, Bad Code** (*Tom Long*)](https://www.manning.com/books/good-code-bad-code)
 
 ## Architecture
 - [**Fundamentals of Software Architecture** (*Mark Richards, Neal Ford*)](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+
+## DDD
+- [**Domain-Driven Design Distilled** (*Vaughn Vernon*)](https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/)
 
 ## Organization
 - [**Team Topologies**: Organizing Business and Technology Teams for Fast Flow (*Matthew Skelton and Manuel Pais*)](https://teamtopologies.com/book)
