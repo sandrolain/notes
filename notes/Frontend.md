@@ -4,6 +4,7 @@
 ### Frontend Dev & Build Tools
 - [**Vite**: Next Generation Frontend Tooling](https://vitejs.dev)
 - [**Snowpack**: The faster frontend build tool](https://www.snowpack.dev/)
+- [**microbundle**: The zero-configuration bundler for tiny modules](https://github.com/developit/microbundle)
 
 #### Webpack
 - [**sass-to-string**: webpack loader that transform your SCSS file in a javascript string](https://github.com/m4thieulavoie/sass-to-string)
