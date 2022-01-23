@@ -2,8 +2,10 @@
 
 ## Libraries
 
+- [**Fiber**: Express inspired web framework built on top of Fasthttp](https://github.com/gofiber/fiber)
 - [GeoService in Go](https://github.com/codingsince1985/geo-golang)
 - [Redis client for Golang](https://github.com/go-redis/redis)
+- [**Bolt**: Bolt is a pure Go key/value store](https://github.com/boltdb/bolt)
 - [Go-MySQL-Driver](https://github.com/go-sql-driver/mysql)
 - [bimg: fast high-level image processing](https://github.com/h2non/bimg)
 - [GoDotEnv](https://github.com/joho/godotenv)

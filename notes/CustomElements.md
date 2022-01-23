@@ -2,6 +2,7 @@
 
 ## Articles
 
+- [2022-01-22: Context-Aware Web Components Are Easier Than You Think](https://css-tricks.com/context-aware-web-components/)
 - [2021-08-17: Using CSS Module Scripts to import stylesheets](https://web.dev/css-module-scripts/)
 - [2021-06-22: Using Custom Elements in Svelte](https://css-tricks.com/using-custom-elements-in-svelte/)
 - [2021-05-17: Faster Integration with Web Components](https://cloudfour.com/thinks/faster-integration-with-web-components/)
