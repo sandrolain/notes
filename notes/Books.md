@@ -18,3 +18,9 @@
 ## Micro-Frontends
 - [**Building Micro-Frontends** (*Luca Mezzalira*)](https://www.buildingmicrofrontends.com/)
 - [**Micro Frontends in Action** (*Michael Geers*)](https://www.manning.com/books/micro-frontends-in-action)
+
+
+## WebAssembly
+- [**WebAssembly: The Definitive Guide** (*Brian Sletten*)](https://www.oreilly.com/library/view/webassembly-the-definitive/9781492089834/) 
+- [**The Art of WebAssembly** (*Rick Battagline*)](https://nostarch.com/art-webassembly) 
+- [**Hands-On JavaScript High Performance** (*Justin Scherer*)](https://www.packtpub.com/product/hands-on-javascript-high-performance/9781838821098)

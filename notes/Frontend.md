@@ -38,6 +38,9 @@
 - [**uxm**: An utility library for collecting user-centric performance metrics](https://github.com/treosh/uxm)
 - [**opentelemetry**: framework for collecting traces and metrics from applications](https://github.com/open-telemetry/opentelemetry-js) 
 
+### Diagrams
+- [**Pintora**: Pintora is an extensible javascript text-to-diagrams library that works in both browser and Node.js](https://github.com/hikerpig/pintora)
+
 ## Guides
 
 - [Front end observability](https://dev.to/omrilotan/front-end-observability-a-practical-guide-to-browser-error-monitoring-2gcm)
