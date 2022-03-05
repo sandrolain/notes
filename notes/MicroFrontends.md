@@ -36,11 +36,14 @@
 - [**Micro Frontends in Action** by Michael Geers](https://www.manning.com/books/micro-frontends-in-action)
 
 ## Talks
+- [2022-02-02: Micro Frontends Conference](https://hasgeek.com/jsfoo/microfrontends-conf/videos) 
 - [2021-10-28: Azizi Yazit: Design System For Micro-Frontends](https://www.conf42.com/JavaScript_2021_Azizi_Yazit_System_MicroFrontends)
 - [2020-09-07: The Story of Micro Frontends](https://www.youtube.com/watch?v=Cbju5GSF1KU)
 - [2018-06-12: Michael Geers: Micro Frontends - Think Smaller, Avoid the Monolith, ❤️the Backend | Web Rebels 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
 
 ## Articles
+- [2022-03-01: Luca Mezzalira: The Micro-Frontends future](https://medium.com/@lucamezzalira/the-future-of-micro-frontends-2f527f97d506) 
+- [2022-02-10: Behind leroymerlin.fr: Micro Frontends](https://medium.com/adeo-tech/behind-leroymerlin-fr-micro-frontends-47fd7c53f99d)
 - [2021-12-08: 5 Reasons You Should Adopt a Micro Frontend Architecture](https://www.sitepoint.com/micro-frontend-architecture-benefits/)
 - [2021-08: Motivations, benefits, and issues for adopting Micro-Frontends: A Multivocal Literature Review](https://www.sciencedirect.com/science/article/pii/S0950584921000549)
 - [2021-08-24: Micro Frontend Guide: Technical Integrations](https://www.trendmicro.com/ru_ru/devops/21/h/micro-frontend-guide-technical-integrations.html)

@@ -2,6 +2,9 @@
 
 ## Libraries
 
+- [**Olric**: Distributed cache and in-memory key/value data store](https://github.com/buraksezer/olric) 
+- [**FreeCache**: A cache library for Go with zero GC overhead and high concurrent performance](https://github.com/coocood/freecache)
+- [**Resty**: Simple HTTP and REST client library for Go](https://github.com/go-resty/resty)
 - [**Fiber**: Express inspired web framework built on top of Fasthttp](https://github.com/gofiber/fiber)
 - [GeoService in Go](https://github.com/codingsince1985/geo-golang)
 - [Redis client for Golang](https://github.com/go-redis/redis)
@@ -30,11 +33,6 @@
 
 ### Libraries for Testing
 - [Miniredis: Pure Go Redis test server](https://github.com/alicebob/miniredis) 
-
-
-## WebAssembly
-- [GoLang WebAssembly](https://github.com/golang/go/wiki/WebAssembly)
-- [Configure Go Build Constraints in VS Code to work with WebAssembly](https://egghead.io/lessons/go-configure-go-build-constraints-in-vs-code-to-work-with-webassembly)
 
 ## Articles
 - [Errors and Error Wrapping in Go](https://trstringer.com/errors-and-error-wrapping-go/)

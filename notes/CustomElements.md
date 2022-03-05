@@ -30,6 +30,7 @@
 - [Svelte Custom element API](https://svelte.dev/docs#run-time-custom-element-api)
 
 ## Libraries and Frameworks
+- [**Minze**: Dead-simple JS framework for native web components](https://minze.dev/)
 - [Lit](https://lit.dev/)
 - [Fast](https://www.fast.design/)
 - [Catalyst (GitHub)](https://github.github.io/catalyst/)
