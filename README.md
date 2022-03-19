@@ -20,6 +20,7 @@
 - [AngularJS](notes/AngularJS.md)
 - [React](notes/React.md)
 - [Patterns & Refactoring](notes/Patterns.md)
+- [API](notes/API.md)
 - [OpenAPI](notes/OpenAPI.md)
 - [Flutter](notes/Flutter.md)
 - [Markdown](notes/Markdown.md)
