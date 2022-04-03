@@ -41,8 +41,12 @@
 - [2020-09-07: The Story of Micro Frontends](https://www.youtube.com/watch?v=Cbju5GSF1KU)
 - [2018-06-12: Michael Geers: Micro Frontends - Think Smaller, Avoid the Monolith, ❤️the Backend | Web Rebels 2018](https://www.youtube.com/watch?v=dTW7eJsIHDg)
 
+## Podcast
+- [La modularità del software applicata al frontend](https://aws.amazon.com/it/podcasts/85-modularita-software-frontend/?fbclid=IwAR2_ys664jcRUZwRdjIZ9KN_MIEkDcmkesyyHUTvVF3FDUUROxaxmVTKnZ4)
+
+
 ## Articles
-- [2022-03-01: Luca Mezzalira: The Micro-Frontends future](https://medium.com/@lucamezzalira/the-future-of-micro-frontends-2f527f97d506) 
+- [2022-03-01: Luca Mezzalira: The Future of Micro-Frontends](https://medium.com/@lucamezzalira/the-future-of-micro-frontends-2f527f97d506) 
 - [2022-02-10: Behind leroymerlin.fr: Micro Frontends](https://medium.com/adeo-tech/behind-leroymerlin-fr-micro-frontends-47fd7c53f99d)
 - [2021-12-08: 5 Reasons You Should Adopt a Micro Frontend Architecture](https://www.sitepoint.com/micro-frontend-architecture-benefits/)
 - [2021-08: Motivations, benefits, and issues for adopting Micro-Frontends: A Multivocal Literature Review](https://www.sciencedirect.com/science/article/pii/S0950584921000549)

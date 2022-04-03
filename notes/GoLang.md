@@ -2,6 +2,8 @@
 
 ## Libraries
 
+- [**lo** is a Lodash-style Go library based on Go 1.18+ Generics.](https://github.com/samber/lo) 
+- [**Go Util**: Useful utils for the Go: string, array/slice, map, format, CLI, ENV, filesystem, testing](https://github.com/gookit/goutil) 
 - [**Olric**: Distributed cache and in-memory key/value data store](https://github.com/buraksezer/olric) 
 - [**FreeCache**: A cache library for Go with zero GC overhead and high concurrent performance](https://github.com/coocood/freecache)
 - [**Resty**: Simple HTTP and REST client library for Go](https://github.com/go-resty/resty)
@@ -36,6 +38,7 @@
 
 ## Articles
 - [Errors and Error Wrapping in Go](https://trstringer.com/errors-and-error-wrapping-go/)
+- [Options Pattern in Golang](https://levelup.gitconnected.com/options-pattern-in-golang-9a0384a9d8db)
 
 ### Redis integration
 
