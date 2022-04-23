@@ -2,6 +2,7 @@
 
 ## Articles
 
+- [2022-04-14: 7 Web Component Tricks](https://daverupert.com/2022/04/7-web-component-tricks/)
 - [2022-03-14: Embeddable Web Applications with Shadow DOM](https://www.viget.com/articles/embedable-web-applications-with-shadow-dom/)
 - [2022-01-22: Context-Aware Web Components Are Easier Than You Think](https://css-tricks.com/context-aware-web-components/)
 - [2021-08-17: Using CSS Module Scripts to import stylesheets](https://web.dev/css-module-scripts/)

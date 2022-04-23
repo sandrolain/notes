@@ -2,6 +2,8 @@
 
 ## Libraries
 
+- [**beeep** provides a cross-platform library for sending desktop notifications, alerts and beeps](https://github.com/gen2brain/beeep)
+- [**fasthttp**: Fast HTTP implementation for Go](https://github.com/valyala/fasthttp)
 - [**lo** is a Lodash-style Go library based on Go 1.18+ Generics.](https://github.com/samber/lo) 
 - [**Go Util**: Useful utils for the Go: string, array/slice, map, format, CLI, ENV, filesystem, testing](https://github.com/gookit/goutil) 
 - [**Olric**: Distributed cache and in-memory key/value data store](https://github.com/buraksezer/olric) 
@@ -26,6 +28,9 @@
 - [**stick**: A golang port of the Twig templating engine](https://github.com/tyler-sommer/stick)
 - [**jwt**: A go implementation of JSON Web Tokens](https://github.com/golang-jwt/jwt)
 - [**go-colorful**: A library for playing with colors in go](https://github.com/lucasb-eyer/go-colorful)
+
+## Tools
+- [**UPX**: the Ultimate Packer for eXecutables](https://upx.github.io/)
 
 ### Logging
 - [**zap**: Blazing fast, structured, leveled logging in Go](https://github.com/uber-go/zap)
