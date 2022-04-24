@@ -2,6 +2,9 @@
 
 ## Libraries
 
+- [**dockertest**: Use Docker to run your Golang integration tests against third party services](https://github.com/ory/dockertest)
+- [**flashdb**: FlashDB is a simple, in-memory, key/value store in pure Go](https://github.com/arriqaaq/flashdb)
+- [**dlgs**: is a cross-platform library for displaying dialogs and input boxes](https://github.com/gen2brain/dlgs) 
 - [**beeep** provides a cross-platform library for sending desktop notifications, alerts and beeps](https://github.com/gen2brain/beeep)
 - [**fasthttp**: Fast HTTP implementation for Go](https://github.com/valyala/fasthttp)
 - [**lo** is a Lodash-style Go library based on Go 1.18+ Generics.](https://github.com/samber/lo) 
@@ -56,6 +59,7 @@
 - [Is there a method to generate a UUID with go language](https://stackoverflow.com/questions/15130321/is-there-a-method-to-generate-a-uuid-with-go-language)
 
 ## Guides
+- [generics-intro practical examples](https://gosamples.dev/tags/generics-intro/) 
 - [Go by Example](https://gobyexample.com/)
 - [Golang By Example](https://golangbyexample.com/)
 - [go-patterns](https://github.com/tmrts/go-patterns)
