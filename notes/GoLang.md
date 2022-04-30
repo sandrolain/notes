@@ -2,6 +2,10 @@
 
 ## Libraries
 
+- [**Package validator** implements value validations for structs and individual fields based on tags](https://github.com/go-playground/validator)
+- [**urlquery**: A URL Query string Encoder and Parser](https://github.com/hetiansu5/urlquery)
+- [**go-toml**: Go library for the TOML format](https://github.com/pelletier/go-toml)
+- [**go-yaml**: YAML support for the Go language](https://github.com/go-yaml/yaml)
 - [**dockertest**: Use Docker to run your Golang integration tests against third party services](https://github.com/ory/dockertest)
 - [**flashdb**: FlashDB is a simple, in-memory, key/value store in pure Go](https://github.com/arriqaaq/flashdb)
 - [**dlgs**: is a cross-platform library for displaying dialogs and input boxes](https://github.com/gen2brain/dlgs) 
