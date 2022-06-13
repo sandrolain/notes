@@ -2,6 +2,7 @@
 
 ## Libraries
 
+- [**Bud**: The Full-Stack Web Framework for Go](https://github.com/livebud/bud)
 - [**Package validator** implements value validations for structs and individual fields based on tags](https://github.com/go-playground/validator)
 - [**urlquery**: A URL Query string Encoder and Parser](https://github.com/hetiansu5/urlquery)
 - [**go-toml**: Go library for the TOML format](https://github.com/pelletier/go-toml)
@@ -37,18 +38,24 @@
 - [**go-colorful**: A library for playing with colors in go](https://github.com/lucasb-eyer/go-colorful)
 
 ## Tools
+
 - [**UPX**: the Ultimate Packer for eXecutables](https://upx.github.io/)
+- [Go Cover Treemap](https://go-cover-treemap.io/)
 
 ### Logging
+
 - [**zap**: Blazing fast, structured, leveled logging in Go](https://github.com/uber-go/zap)
 
 ### JSON
+
 - [**sonic**: A blazingly fast JSON serializing & deserializing library](https://github.com/bytedance/sonic)
 
 ### Libraries for Testing
+
 - [Miniredis: Pure Go Redis test server](https://github.com/alicebob/miniredis) 
 
 ## Articles
+
 - [Errors and Error Wrapping in Go](https://trstringer.com/errors-and-error-wrapping-go/)
 - [Options Pattern in Golang](https://levelup.gitconnected.com/options-pattern-in-golang-9a0384a9d8db)
 
@@ -59,10 +66,15 @@
 
 
 ## How To
+
+- [How to use conditional compilation with the go build tool](https://dave.cheney.net/2013/10/12/how-to-use-conditional-compilation-with-the-go-build-tool)
+- [Singleton in Golang](https://thedevelopercafe.com/articles/singleton-in-golang-839d8610958b)
 - [How can I receive an uploaded file using a Golang net/http server?](https://stackoverflow.com/questions/40684307/how-can-i-receive-an-uploaded-file-using-a-golang-net-http-server)
 - [Is there a method to generate a UUID with go language](https://stackoverflow.com/questions/15130321/is-there-a-method-to-generate-a-uuid-with-go-language)
 
 ## Guides
+
+- [Tutorial: Getting started with multi-module workspaces](https://go.dev/doc/tutorial/workspaces)
 - [generics-intro practical examples](https://gosamples.dev/tags/generics-intro/) 
 - [Go by Example](https://gobyexample.com/)
 - [Golang By Example](https://golangbyexample.com/)
