@@ -16,6 +16,8 @@
 
 ### Testing
 
+- [**Testing Library**: Simple and complete testing utilities that encourage good testing practices](https://testing-library.com/) 
+- [**Vitest**: Blazing Fast Unit Test Framework for Vite](https://vitest.dev/)
 - [**jest-fetch-mock**: Jest mock for fetch](https://github.com/jefflau/jest-fetch-mock)
 
 ## Libraries

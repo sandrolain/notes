@@ -9,12 +9,12 @@
 - [**go-yaml**: YAML support for the Go language](https://github.com/go-yaml/yaml)
 - [**dockertest**: Use Docker to run your Golang integration tests against third party services](https://github.com/ory/dockertest)
 - [**flashdb**: FlashDB is a simple, in-memory, key/value store in pure Go](https://github.com/arriqaaq/flashdb)
-- [**dlgs**: is a cross-platform library for displaying dialogs and input boxes](https://github.com/gen2brain/dlgs) 
+- [**dlgs**: is a cross-platform library for displaying dialogs and input boxes](https://github.com/gen2brain/dlgs)
 - [**beeep** provides a cross-platform library for sending desktop notifications, alerts and beeps](https://github.com/gen2brain/beeep)
 - [**fasthttp**: Fast HTTP implementation for Go](https://github.com/valyala/fasthttp)
-- [**lo** is a Lodash-style Go library based on Go 1.18+ Generics.](https://github.com/samber/lo) 
-- [**Go Util**: Useful utils for the Go: string, array/slice, map, format, CLI, ENV, filesystem, testing](https://github.com/gookit/goutil) 
-- [**Olric**: Distributed cache and in-memory key/value data store](https://github.com/buraksezer/olric) 
+- [**lo** is a Lodash-style Go library based on Go 1.18+ Generics.](https://github.com/samber/lo)
+- [**Go Util**: Useful utils for the Go: string, array/slice, map, format, CLI, ENV, filesystem, testing](https://github.com/gookit/goutil)
+- [**Olric**: Distributed cache and in-memory key/value data store](https://github.com/buraksezer/olric)
 - [**FreeCache**: A cache library for Go with zero GC overhead and high concurrent performance](https://github.com/coocood/freecache)
 - [**Resty**: Simple HTTP and REST client library for Go](https://github.com/go-resty/resty)
 - [**Fiber**: Express inspired web framework built on top of Fasthttp](https://github.com/gofiber/fiber)
@@ -27,7 +27,7 @@
 - [go-qrcode](https://github.com/yeqown/go-qrcode)
 - [Gomail](https://pkg.go.dev/gopkg.in/mail.v2)
 - [Ristretto (In-memory cache)](https://github.com/dgraph-io/ristretto)
-- [GoAdmin: Backend Data Admin Panel](https://www.go-admin.com/) 
+- [GoAdmin: Backend Data Admin Panel](https://www.go-admin.com/)
 - [**retry-go**: Simple golang library for retry mechanism](https://github.com/avast/retry-go)
 - [**xid** is a globally unique id generator thought for the web](https://github.com/rs/xid)
 - [**go-nanoid**: Golang random IDs generat](https://github.com/matoous/go-nanoid)
@@ -52,7 +52,7 @@
 
 ### Libraries for Testing
 
-- [Miniredis: Pure Go Redis test server](https://github.com/alicebob/miniredis) 
+- [Miniredis: Pure Go Redis test server](https://github.com/alicebob/miniredis)
 
 ## Articles
 
@@ -64,9 +64,9 @@
 - [redis-keyspace-notification.go - Cacher Snippet](https://snippets.cacher.io/snippet/6607f124ebc238ebf22c)
 - [Using Redis keyspace events with Golang for a poor man’s event-driven application](https://mattboodoo.com/2021/07/02/using-redis-keyspace-events-with-golang-for-a-poor-mans-event-driven-application/)
 
-
 ## How To
 
+- [How To Deploy a Go Web Application with Docker](https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker)
 - [How to use conditional compilation with the go build tool](https://dave.cheney.net/2013/10/12/how-to-use-conditional-compilation-with-the-go-build-tool)
 - [Singleton in Golang](https://thedevelopercafe.com/articles/singleton-in-golang-839d8610958b)
 - [How can I receive an uploaded file using a Golang net/http server?](https://stackoverflow.com/questions/40684307/how-can-i-receive-an-uploaded-file-using-a-golang-net-http-server)
@@ -75,13 +75,12 @@
 ## Guides
 
 - [Tutorial: Getting started with multi-module workspaces](https://go.dev/doc/tutorial/workspaces)
-- [generics-intro practical examples](https://gosamples.dev/tags/generics-intro/) 
+- [generics-intro practical examples](https://gosamples.dev/tags/generics-intro/)
 - [Go by Example](https://gobyexample.com/)
 - [Golang By Example](https://golangbyexample.com/)
 - [go-patterns](https://github.com/tmrts/go-patterns)
 - [Go modules by example](https://github.com/go-modules-by-example/index)
-- [Standard Go Project Layout](https://github.com/golang-standards/project-layout) 
-
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 
 ## Commands
 

@@ -23,3 +23,7 @@ git config --list
 ## Commands
 
 ![git data transport commands](./images/git-data-transport-commands.png)
+
+## GitHub
+
+- [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
