@@ -17,7 +17,6 @@
 - [**Olric**: Distributed cache and in-memory key/value data store](https://github.com/buraksezer/olric)
 - [**FreeCache**: A cache library for Go with zero GC overhead and high concurrent performance](https://github.com/coocood/freecache)
 - [**Resty**: Simple HTTP and REST client library for Go](https://github.com/go-resty/resty)
-- [**Fiber**: Express inspired web framework built on top of Fasthttp](https://github.com/gofiber/fiber)
 - [GeoService in Go](https://github.com/codingsince1985/geo-golang)
 - [Redis client for Golang](https://github.com/go-redis/redis)
 - [**Bolt**: Bolt is a pure Go key/value store](https://github.com/boltdb/bolt)
@@ -36,6 +35,15 @@
 - [**stick**: A golang port of the Twig templating engine](https://github.com/tyler-sommer/stick)
 - [**jwt**: A go implementation of JSON Web Tokens](https://github.com/golang-jwt/jwt)
 - [**go-colorful**: A library for playing with colors in go](https://github.com/lucasb-eyer/go-colorful)
+
+## Web Frameworks
+
+- [**Echo**: High performance, extensible, minimalist Go web framework](https://echo.labstack.com/)
+- [**Fiber**: Express inspired web framework built on top of Fasthttp](https://gofiber.io/)
+
+## App Frameworks
+
+- [**Wails**: Build beautiful cross-platform applications using Go](https://wails.io/)
 
 ## Tools
 
@@ -66,6 +74,7 @@
 
 ## How To
 
+- [Serving Single-Page Application in a single binary file with Go](https://dev.to/aryaprakasa/serving-single-page-application-in-a-single-binary-file-with-go-12ij)
 - [How To Deploy a Go Web Application with Docker](https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker)
 - [How to use conditional compilation with the go build tool](https://dave.cheney.net/2013/10/12/how-to-use-conditional-compilation-with-the-go-build-tool)
 - [Singleton in Golang](https://thedevelopercafe.com/articles/singleton-in-golang-839d8610958b)
