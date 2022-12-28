@@ -9,6 +9,7 @@
 - [**microbundle**: The zero-configuration bundler for tiny modules](https://github.com/developit/microbundle)4
 - [**Parcel**: The zero configuration build tool for the web](https://parceljs.org/)
 - [**Turborepo**: Turborepo is a high-performance build system for JavaScript and TypeScript codebases.](https://turborepo.org/)
+- [**Eleventy**, a simpler static site generator](https://www.11ty.dev/)
 
 #### Webpack
 

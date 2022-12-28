@@ -31,7 +31,7 @@
 - [**xid** is a globally unique id generator thought for the web](https://github.com/rs/xid)
 - [**go-nanoid**: Golang random IDs generat](https://github.com/matoous/go-nanoid)
 - [**base36**: Base36 implementation in golang](https://github.com/martinlindhe/base36)
-- [**mux**: A powerful HTTP router and URL matcher for building Go web servers with 🦍](https://github.com/gorilla/mux)
+- [**mux**: A powerful HTTP router and URL matcher for building Go web servers with 🦍](https://github.com/gorilla/mux) (*Deprecated*)
 - [**stick**: A golang port of the Twig templating engine](https://github.com/tyler-sommer/stick)
 - [**jwt**: A go implementation of JSON Web Tokens](https://github.com/golang-jwt/jwt)
 - [**go-colorful**: A library for playing with colors in go](https://github.com/lucasb-eyer/go-colorful)
@@ -47,6 +47,7 @@
 
 ## Tools
 
+- [**AIR**: Live reload for Go apps](https://github.com/cosmtrek/air)
 - [**UPX**: the Ultimate Packer for eXecutables](https://upx.github.io/)
 - [Go Cover Treemap](https://go-cover-treemap.io/)
 
