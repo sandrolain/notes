@@ -53,6 +53,7 @@
 
 ## Articles
 
+- [2022-10-21: Contract Testing MicroFrontends](https://donkeycoder.medium.com/contract-testing-microfrontends-d35ef36bda1b)
 - [2022-03-01: Luca Mezzalira: The Future of Micro-Frontends](https://medium.com/@lucamezzalira/the-future-of-micro-frontends-2f527f97d506)
 - [2022-02-10: Behind leroymerlin.fr: Micro Frontends](https://medium.com/adeo-tech/behind-leroymerlin-fr-micro-frontends-47fd7c53f99d)
 - [2021-12-08: 5 Reasons You Should Adopt a Micro Frontend Architecture](https://www.sitepoint.com/micro-frontend-architecture-benefits/)

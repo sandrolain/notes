@@ -84,6 +84,7 @@
 
 ## Guides
 
+- [Examples of Golang compared to Node.js for learning](https://github.com/miguelmota/golang-for-nodejs-developers)
 - [Tutorial: Getting started with multi-module workspaces](https://go.dev/doc/tutorial/workspaces)
 - [generics-intro practical examples](https://gosamples.dev/tags/generics-intro/)
 - [Go by Example](https://gobyexample.com/)
