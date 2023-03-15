@@ -2,12 +2,12 @@
 
 ## Libraries
 
+- [**env**: parse environment variables into structs](https://github.com/caarlos0/env)
 - [**Bud**: The Full-Stack Web Framework for Go](https://github.com/livebud/bud)
 - [**Package validator** implements value validations for structs and individual fields based on tags](https://github.com/go-playground/validator)
 - [**urlquery**: A URL Query string Encoder and Parser](https://github.com/hetiansu5/urlquery)
 - [**go-toml**: Go library for the TOML format](https://github.com/pelletier/go-toml)
 - [**go-yaml**: YAML support for the Go language](https://github.com/go-yaml/yaml)
-- [**dockertest**: Use Docker to run your Golang integration tests against third party services](https://github.com/ory/dockertest)
 - [**flashdb**: FlashDB is a simple, in-memory, key/value store in pure Go](https://github.com/arriqaaq/flashdb)
 - [**dlgs**: is a cross-platform library for displaying dialogs and input boxes](https://github.com/gen2brain/dlgs)
 - [**beeep** provides a cross-platform library for sending desktop notifications, alerts and beeps](https://github.com/gen2brain/beeep)
@@ -61,7 +61,13 @@
 
 ### Libraries for Testing
 
-- [Miniredis: Pure Go Redis test server](https://github.com/alicebob/miniredis)
+- [**Miniredis**: Pure Go Redis test server](https://github.com/alicebob/miniredis)
+- [**dockertest**: Use Docker to run your Golang integration tests against third party services](https://github.com/ory/dockertest)
+- [**smtpmock** is lightweight configurable multithreaded fake SMTP serve](https://github.com/mocktools/go-smtp-mock)
+
+### Documentation
+
+- [**doc2go** is a tool that generates static HTML documentation from your Go code](https://abhinav.github.io/doc2go/)
 
 ## Articles
 
