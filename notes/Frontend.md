@@ -40,6 +40,10 @@
 
 - [**roarr**: JSON logger for Node.js and browser](https://github.com/gajus/roarr)
 
+### Markdown
+
+- [**Markdoc** is a powerful, flexible, Markdown-based authoring framework](https://markdoc.dev/)
+
 ### CSS in JS
 
 - [**vanilla-extract**: Zero-runtime Stylesheets in TypeScript](https://vanilla-extract.style)
