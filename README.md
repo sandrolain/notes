@@ -3,6 +3,7 @@
 *This isn't awesome, maybe*
 
 - [Books](notes/Books.md)
+- [Security](notes/Security.md)
 - [WebAssembly](notes/WebAssembly.md)
 - [GoLang](notes/GoLang.md)
 - [MySQL/MariaDB](notes/MySQL.md)
