@@ -2,6 +2,8 @@
 
 ## Libraries
 
+- [**Participle**: A dead simple parser package for Go](https://github.com/alecthomas/participle)
+- [**log**: A minimal and colorful Go logging library](https://github.com/charmbracelet/log)
 - [**env**: parse environment variables into structs](https://github.com/caarlos0/env)
 - [**Bud**: The Full-Stack Web Framework for Go](https://github.com/livebud/bud)
 - [**Package validator** implements value validations for structs and individual fields based on tags](https://github.com/go-playground/validator)
@@ -35,11 +37,17 @@
 - [**stick**: A golang port of the Twig templating engine](https://github.com/tyler-sommer/stick)
 - [**jwt**: A go implementation of JSON Web Tokens](https://github.com/golang-jwt/jwt)
 - [**go-colorful**: A library for playing with colors in go](https://github.com/lucasb-eyer/go-colorful)
+- [**zap**: Blazing fast, structured, leveled logging in Go](https://github.com/uber-go/zap)
+- [**sonic**: A blazingly fast JSON serializing & deserializing library](https://github.com/bytedance/sonic)
 
 ## Web Frameworks
 
 - [**Echo**: High performance, extensible, minimalist Go web framework](https://echo.labstack.com/)
 - [**Fiber**: Express inspired web framework built on top of Fasthttp](https://gofiber.io/)
+
+## Microservices
+
+- [**Go Micro** is a framework for distributed systems development.](https://github.com/go-micro/go-micro)
 
 ## App Frameworks
 
@@ -51,13 +59,11 @@
 - [**UPX**: the Ultimate Packer for eXecutables](https://upx.github.io/)
 - [Go Cover Treemap](https://go-cover-treemap.io/)
 
-### Logging
 
-- [**zap**: Blazing fast, structured, leveled logging in Go](https://github.com/uber-go/zap)
 
-### JSON
+## Template
 
-- [**sonic**: A blazingly fast JSON serializing & deserializing library](https://github.com/bytedance/sonic)
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 
 ### Libraries for Testing
 
@@ -87,6 +93,7 @@
 - [Singleton in Golang](https://thedevelopercafe.com/articles/singleton-in-golang-839d8610958b)
 - [How can I receive an uploaded file using a Golang net/http server?](https://stackoverflow.com/questions/40684307/how-can-i-receive-an-uploaded-file-using-a-golang-net-http-server)
 - [Is there a method to generate a UUID with go language](https://stackoverflow.com/questions/15130321/is-there-a-method-to-generate-a-uuid-with-go-language)
+- [Advanced markdown processing in Go](https://blog.kowalczyk.info/article/cxn3/advanced-markdown-processing-in-go.html)
 
 ## Guides
 

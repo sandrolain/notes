@@ -4,6 +4,10 @@
 
 - [Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security/)
 
+## API
+
+- [5 Tips for Boosting API Security](https://www.codemotion.com/magazine/backend/cybersecurity/5-tips-for-boosting-api-security/)
+
 ## OWASP
 
 - [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/)

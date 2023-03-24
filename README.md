@@ -35,3 +35,5 @@
 - [GIT](notes/GIT.md)
 - [Docker](notes/Docker.md)
 - [Python](notes/Python.md)
+- [DevOps](notes/DevOps.md)
+- [Computer Science](notes/ComputerScience.md)
