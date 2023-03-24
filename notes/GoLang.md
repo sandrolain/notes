@@ -59,11 +59,17 @@
 - [**UPX**: the Ultimate Packer for eXecutables](https://upx.github.io/)
 - [Go Cover Treemap](https://go-cover-treemap.io/)
 
+## Monitoring
 
+- [The complete guide to OpenTelemetry in Golang](https://www.komu.engineer/blogs/11/opentelemetry-and-go)
 
 ## Template
 
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+
+## Concurrency
+
+- [Speeding up a Go cli application with concurrency](https://cuffaro.com/2023-03-20-go-concurrency/)
 
 ### Libraries for Testing
 
