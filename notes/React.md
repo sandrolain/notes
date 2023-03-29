@@ -11,3 +11,4 @@
 
 ## Articles
 - [How To Build A Blog With Next And MDX](https://www.smashingmagazine.com/2020/09/build-blog-nextjs-mdx/)
+- [Top 5 React Typescript Design Patterns to boost your skills to the Next Level](https://itnext.io/top-5-react-typescript-design-patterns-to-boost-your-skills-to-the-next-level-5b5f54dd934f)
