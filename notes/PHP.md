@@ -6,6 +6,19 @@
 php -S localhost:8080 -t public index.php"
 ```
 
+## Libraries
+- [**Slim** is a PHP micro framework](https://www.slimframework.com/)
+
+
+## Docker
+
+- [**PHPDocker.io**: A PHP development environment generator built with Docker containers.](https://phpdocker.io/)
+
+## Runner
+
+- [**RoadRunner**: Modernizing PHP Applications with Golang](https://roadrunner.dev/)
+
+
 ## PHP MongoDB macOS
 
 - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/

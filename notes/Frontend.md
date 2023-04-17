@@ -10,6 +10,7 @@
 - [**Parcel**: The zero configuration build tool for the web](https://parceljs.org/)
 - [**Turborepo**: Turborepo is a high-performance build system for JavaScript and TypeScript codebases.](https://turborepo.org/)
 - [**Eleventy**, a simpler static site generator](https://www.11ty.dev/)
+- [**JSPM** provides package management for import maps](https://jspm.org/)
 
 #### Webpack
 
@@ -79,3 +80,4 @@
 ### No Framework
 
 - [Design: #noFramework](https://javarome.medium.com/design-noframework-bbc00a02d9b3)
+

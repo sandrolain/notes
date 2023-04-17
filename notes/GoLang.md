@@ -53,11 +53,20 @@
 
 - [**Wails**: Build beautiful cross-platform applications using Go](https://wails.io/)
 
+## Reactive
+
+- [**Goresilience** is a Go toolkit to increase the resilience of applications](https://github.com/slok/goresilience)
+- [**go-resiliency**: Resiliency patterns for golang](https://github.com/eapache/go-resiliency)
+
 ## Tools
 
 - [**AIR**: Live reload for Go apps](https://github.com/cosmtrek/air)
 - [**UPX**: the Ultimate Packer for eXecutables](https://upx.github.io/)
 - [Go Cover Treemap](https://go-cover-treemap.io/)
+
+## Profiling
+
+- [Profiling Go Programs](https://benchkram.de/blog/dev/profiling-go-programs)
 
 ## Monitoring
 
@@ -71,11 +80,19 @@
 
 - [Speeding up a Go cli application with concurrency](https://cuffaro.com/2023-03-20-go-concurrency/)
 
+## Testing
+
 ### Libraries for Testing
 
 - [**Miniredis**: Pure Go Redis test server](https://github.com/alicebob/miniredis)
 - [**dockertest**: Use Docker to run your Golang integration tests against third party services](https://github.com/ory/dockertest)
 - [**smtpmock** is lightweight configurable multithreaded fake SMTP serve](https://github.com/mocktools/go-smtp-mock)
+
+### Articles on Testing
+
+- [The adapter pattern in Go](https://bitfieldconsulting.com/golang/adapter)
+- [Comprehensive Guide to Testing in Go](https://blog.jetbrains.com/go/2022/11/22/comprehensive-guide-to-testing-in-go/)
+- [Write integration tests with dockertest](https://philidor.dev/blog/dockertest/)
 
 ### Documentation
 
@@ -83,6 +100,7 @@
 
 ## Articles
 
+- [Error wrapping in Go](https://bitfieldconsulting.com/golang/wrapping-errors)
 - [Errors and Error Wrapping in Go](https://trstringer.com/errors-and-error-wrapping-go/)
 - [Options Pattern in Golang](https://levelup.gitconnected.com/options-pattern-in-golang-9a0384a9d8db)
 
