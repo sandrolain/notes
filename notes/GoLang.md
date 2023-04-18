@@ -100,6 +100,7 @@
 
 ## Articles
 
+- [Go's Error Handling Is a Form of Storytelling](https://preslav.me/2023/04/14/golang-error-handling-is-a-form-of-storytelling/)
 - [Error wrapping in Go](https://bitfieldconsulting.com/golang/wrapping-errors)
 - [Errors and Error Wrapping in Go](https://trstringer.com/errors-and-error-wrapping-go/)
 - [Options Pattern in Golang](https://levelup.gitconnected.com/options-pattern-in-golang-9a0384a9d8db)

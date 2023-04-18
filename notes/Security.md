@@ -15,4 +15,13 @@
 - [OWASP Proactive Controls](https://owasp.org/www-project-proactive-controls/)
 
 ## Container
+
 - [Container security best practices](https://sysdig.com/blog/container-security-best-practices/)
+
+## Guides
+
+- [Manually generating your SSH key in macOS](https://docs.tritondatacenter.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-mac-os-x)
+
+## Tools
+
+- [GPG Suite (macOS)](https://gpgtools.org/)

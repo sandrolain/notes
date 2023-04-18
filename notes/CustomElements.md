@@ -2,6 +2,7 @@
 
 ## Articles
 
+- [2023-04-17: 2023 State of Web Components](https://eisenbergeffect.medium.com/2023-state-of-web-components-c8feb21d4f16)
 - [2022-04-14: 7 Web Component Tricks](https://daverupert.com/2022/04/7-web-component-tricks/)
 - [2022-03-14: Embeddable Web Applications with Shadow DOM](https://www.viget.com/articles/embedable-web-applications-with-shadow-dom/)
 - [2022-01-22: Context-Aware Web Components Are Easier Than You Think](https://css-tricks.com/context-aware-web-components/)
@@ -13,27 +14,32 @@
 - [2021-05-03: Using web components to encapsulate CSS and resolve design system conflicts](https://about.gitlab.com/blog/2021/05/03/using-web-components-to-encapsulate-css-and-resolve-design-system-conflicts/)
 - [2021-05-02: Shadow DOM and Its Effect on the Unofficial Styling API](https://blog.jim-nielsen.com/2021/shadow-dom-and-the-styling-api/)
 
-
 ## Docs
+
 - [ElementInternals](https://developer.mozilla.org/en-US/docs/Web/API/ElementInternals)
 
 ## Projects
+
 - [Open Web Components](https://open-wc.org)
 - [**custom-element-manifest**: A file format for describing custom elements](https://github.com/webcomponents/custom-elements-manifest)
     - [Introducing: Custom Elements Manifest](https://dev.to/open-wc/introducing-custom-elements-manifest-gkk)
 
 ## Polyfills
+
 - [element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill)
 
 ## Other Frameworks Integrations
+
 - [React Web Components](https://it.reactjs.org/docs/web-components.html)
 - [Angular elements](https://angular.io/guide/elements)
 - [Vue and Web Components](https://v3.vuejs.org/guide/web-components.html)
 - [Svelte Custom element API](https://svelte.dev/docs#run-time-custom-element-api)
 
 ## Libraries and Frameworks
+
 - [**Minze**: Dead-simple JS framework for native web components](https://minze.dev/)
 - [Lit](https://lit.dev/)
+  - [relit](https://github.com/43081j/relit)
 - [Fast](https://www.fast.design/)
 - [Catalyst (GitHub)](https://github.github.io/catalyst/)
 - [Ficus.js](https://www.ficusjs.org/)
@@ -41,6 +47,12 @@
 - [**api-viewer-element**: API documentation and live playground for Web Components](https://github.com/open-wc/api-viewer-element)
 
 ## Custom Elements Collection
+
 - [**md-block**: Render styleable Markdown in your HTML](https://md-block.verou.me/)  
 - [**h-include**: Declarative client-side transclusion](https://github.com/gustafnk/h-include)
 - [Awesome Standalones](https://github.com/davatron5000/awesome-standalones)
+
+## AngularJS
+
+- [angular-custom-elements](https://github.com/robdodson/angular-custom-elements)
+- [angular-bind-polymer](https://github.com/eee-c/angular-bind-polymer)

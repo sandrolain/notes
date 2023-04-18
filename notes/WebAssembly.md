@@ -16,3 +16,7 @@
 ## Serverlesss WebAssembly
 
 - [**Spin** is a framework for building and running event-driven microservice applications with WebAssembly (Wasm) components.](https://developer.fermyon.com/spin/index)
+
+## Tools
+
+- [**Wasmer**: Run any code on any client](https://wasmer.io/)

@@ -36,6 +36,7 @@
 - [Docker](notes/Docker.md)
 - [Python](notes/Python.md)
 - [DevOps](notes/DevOps.md)
+- [JOSE](notes/JOSE.md)
 - [Computer Science](notes/ComputerScience.md)
 
 ## Vendor

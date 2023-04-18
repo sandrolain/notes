@@ -71,6 +71,10 @@
 - [Natively Format JavaScript Numbers](https://elijahmanor.com/blog/format-js-numbers)
 - [How to Create Native Drag and Drop Functionality in JavaScript](https://javascript.plainenglish.io/how-to-create-native-drag-and-drop-functionality-in-javascript-d7940a3f55da)
 
+## Articles
+
+- [Logging in Browser](https://gajus.medium.com/logging-in-browser-2f053dbe69df)
+
 ### DDD
 
 - [DDD, hexagonal architecture and frontend: What is this all about?](https://medium.com/game-development-stuff/ddd-hexagonal-architecture-and-frontend-what-is-this-all-about-e1568a9053c4)
