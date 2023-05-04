@@ -21,6 +21,7 @@
 - [**Resty**: Simple HTTP and REST client library for Go](https://github.com/go-resty/resty)
 - [GeoService in Go](https://github.com/codingsince1985/geo-golang)
 - [Redis client for Golang](https://github.com/go-redis/redis)
+- [**ruedis**: A fast Golang Redis client that does auto pipelining and supports client side caching](https://github.com/redis/rueidis)
 - [**Bolt**: Bolt is a pure Go key/value store](https://github.com/boltdb/bolt)
 - [Go-MySQL-Driver](https://github.com/go-sql-driver/mysql)
 - [bimg: fast high-level image processing](https://github.com/h2non/bimg)
@@ -63,10 +64,12 @@
 - [**AIR**: Live reload for Go apps](https://github.com/cosmtrek/air)
 - [**UPX**: the Ultimate Packer for eXecutables](https://upx.github.io/)
 - [Go Cover Treemap](https://go-cover-treemap.io/)
+- [**gops** is a command to list and diagnose Go processes currently running on your system](https://github.com/google/gops)
 
 ## Profiling
 
 - [Profiling Go Programs](https://benchkram.de/blog/dev/profiling-go-programs)
+- [How to troubleshoot memory leaks in Go with Grafana Pyroscope](https://grafana.com/blog/2023/04/19/how-to-troubleshoot-memory-leaks-in-go-with-grafana-pyroscope/)
 
 ## Monitoring
 
@@ -140,3 +143,8 @@ go version
 ```sh
 go mod init sandrolain.com/example
 ```
+
+## Illustrations
+
+- [Gophers](https://github.com/egonelbre/gophers)
+- [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack)

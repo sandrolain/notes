@@ -25,3 +25,9 @@
 ## Tools
 
 - [GPG Suite (macOS)](https://gpgtools.org/)
+
+## Authorization
+
+- [**Open Policy Agent**: Policy-based control for cloud native environments](https://www.openpolicyagent.org/)
+- [**Topaz**: cloud-native authorization for modern applications and APIs](https://github.com/aserto-dev/topaz)
+- [**Cerbos**: The scalable, open-source authorization layer for implementing roles and permissions](https://cerbos.dev/)

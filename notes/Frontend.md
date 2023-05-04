@@ -24,6 +24,10 @@
 
 ## Libraries
 
+### Loading
+
+- [**instant**: Make your site’s pages instant](https://instant.page/)
+
 ### Keybinding
 
 - [**tinykeys**: A tiny (~400 B) & modern library for keybindin](https://jamiebuilds.github.io/tinykeys/)

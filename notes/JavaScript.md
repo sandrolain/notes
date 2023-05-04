@@ -8,6 +8,7 @@
 ## Libraries
 
 - [Learn RxJS](https://www.learnrxjs.io/)
+- [**Kv.js**: Advanced in-memory caching module for JavaScript](https://github.com/HeyPuter/kv.js)
 
 ## Guides
 

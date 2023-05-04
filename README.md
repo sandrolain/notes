@@ -36,9 +36,15 @@
 - [Docker](notes/Docker.md)
 - [Python](notes/Python.md)
 - [DevOps](notes/DevOps.md)
+- [Kubernetes](notes/Kubernetes.md)
+- [Testing](notes/Testing.md)
 - [JOSE](notes/JOSE.md)
 - [Computer Science](notes/ComputerScience.md)
 
 ## Vendor
 
 - [NestJS](notes/vendor/NestJS.md)
+
+### Tools
+
+- [VSCode](notes/VSCode.md)

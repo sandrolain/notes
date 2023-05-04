@@ -42,6 +42,7 @@
 
 ## Talks
 
+- [2023-03-23: Serverless micro-frontends | Serverless Office Hours](https://www.youtube.com/watch?v=Vm9jlRSlKVQ&es_id=900b41894d)
 - [2023-02-09: Micro Frontends Discovery | Micro Frontends Summit 2023](https://www.youtube.com/watch?app=desktop&v=piKByrn-UNM&utm_content=241501751&utm_medium=social&utm_source=linkedin&hss_channel=lcp-2969324)
 - [2022-02-02: Micro Frontends Conference](https://hasgeek.com/jsfoo/microfrontends-conf/videos)
 - [2021-10-28: Azizi Yazit: Design System For Micro-Frontends](https://www.conf42.com/JavaScript_2021_Azizi_Yazit_System_MicroFrontends)

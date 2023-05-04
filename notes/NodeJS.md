@@ -17,3 +17,12 @@
 ### Testing
 
 - [Jest Fetch Mock](https://github.com/jefflau/jest-fetch-mock)
+
+### Languages interoperability
+
+- [**Linker.js** is a foreign function interface for Node.js](https://github.com/bitair-org/linker.js)
+- [**Concurrent.js** is a dynamic module importer](https://github.com/bitair-org/concurrent.js)
+
+## Articles
+
+- [Building a modern gRPC-powered microservice using Node.js, Typescript, and Connect](https://blog.dopt.com/building-a-modern-grpc-powered-microservice)

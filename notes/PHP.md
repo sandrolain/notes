@@ -7,8 +7,9 @@ php -S localhost:8080 -t public index.php"
 ```
 
 ## Libraries
-- [**Slim** is a PHP micro framework](https://www.slimframework.com/)
 
+- [**Slim** is a PHP micro framework](https://www.slimframework.com/)
+- [**Shortcode**](https://github.com/thunderer/Shortcode)
 
 ## Docker
 
@@ -18,6 +19,9 @@ php -S localhost:8080 -t public index.php"
 
 - [**RoadRunner**: Modernizing PHP Applications with Golang](https://roadrunner.dev/)
 
+## Server
+
+- [**FrankenPHP**: Modern App Server for PHP](https://github.com/dunglas/frankenphp)
 
 ## PHP MongoDB macOS
 
