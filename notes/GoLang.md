@@ -61,6 +61,7 @@
 
 ## Tools
 
+- [**go-callvis** is a development tool to help visualize call graph of a Go program using interactive view](https://github.com/ofabry/go-callvis)
 - [**AIR**: Live reload for Go apps](https://github.com/cosmtrek/air)
 - [**UPX**: the Ultimate Packer for eXecutables](https://upx.github.io/)
 - [Go Cover Treemap](https://go-cover-treemap.io/)
@@ -93,6 +94,7 @@
 
 ### Articles on Testing
 
+- [Fuzz tests in Go](https://bitfieldconsulting.com/golang/fuzz-tests)
 - [The adapter pattern in Go](https://bitfieldconsulting.com/golang/adapter)
 - [Comprehensive Guide to Testing in Go](https://blog.jetbrains.com/go/2022/11/22/comprehensive-guide-to-testing-in-go/)
 - [Write integration tests with dockertest](https://philidor.dev/blog/dockertest/)
@@ -133,6 +135,10 @@
 - [go-patterns](https://github.com/tmrts/go-patterns)
 - [Go modules by example](https://github.com/go-modules-by-example/index)
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+
+## Video
+
+- [The Power Of Golang's Decorator Pattern](https://youtube.com/watch?v=GipAZwKFgoA&feature=share)
 
 ## Commands
 

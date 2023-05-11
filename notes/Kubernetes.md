@@ -26,8 +26,14 @@
 - [Prometheus Operator](https://prometheus-operator.dev/)
 - [**Trivy** operator continuously scans your Kubernetes cluster for security issues](https://aquasecurity.github.io/trivy-operator/v0.13.2/)
 
+## Security
+
+- [**Gatekeeper**: A customizable cloud native policy controller that helps enforce policies and strengthen governance](https://open-policy-agent.github.io/gatekeeper/website/)
 
 ## Other
 
 - [**Kubefirst** provides fully-automated open source application delivery and infrastructure management](https://kubefirst.io/)
 
+## Tools
+
+- [**Headlamp** is a user-friendly Kubernetes UI focused on extensibility](https://headlamp.dev/)

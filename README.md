@@ -40,6 +40,8 @@
 - [Testing](notes/Testing.md)
 - [JOSE](notes/JOSE.md)
 - [Computer Science](notes/ComputerScience.md)
+- [CI/CD](notes/CI.md)
+- [Architecture](notes/Architecture.md)
 
 ## Vendor
 

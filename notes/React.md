@@ -11,6 +11,7 @@
 
 ## Articles
 
+- [Creating Scalable and Reusable React Components](https://aralroca.com/blog/creating-scalable-and-reusable-react-components)
 - [How to enable OpenTelemetry traces in React applications](https://developers.redhat.com/articles/2023/03/22/how-enable-opentelemetry-traces-react-applications)
 - [How To Build A Blog With Next And MDX](https://www.smashingmagazine.com/2020/09/build-blog-nextjs-mdx/)
 - [Top 5 React Typescript Design Patterns to boost your skills to the Next Level](https://itnext.io/top-5-react-typescript-design-patterns-to-boost-your-skills-to-the-next-level-5b5f54dd934f)

@@ -12,7 +12,6 @@
 - [GoLang WebAssembly](https://github.com/golang/go/wiki/WebAssembly)
 - [Configure Go Build Constraints in VS Code to work with WebAssembly](https://egghead.io/lessons/go-configure-go-build-constraints-in-vs-code-to-work-with-webassembly)
 
-
 ## Serverlesss WebAssembly
 
 - [**Spin** is a framework for building and running event-driven microservice applications with WebAssembly (Wasm) components.](https://developer.fermyon.com/spin/index)
@@ -20,3 +19,7 @@
 ## Tools
 
 - [**Wasmer**: Run any code on any client](https://wasmer.io/)
+
+## Articles
+
+- [FAAS in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)

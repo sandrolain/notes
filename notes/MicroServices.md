@@ -7,3 +7,8 @@
 ## Event Driven
 
 - [Journey to Event Driven — Part 2: Programming Models for the Event-Driven Architecture](https://medium.com/memphis-dev/journey-to-event-driven-part-2-programming-models-for-the-event-driven-architecture-933360eb58fd)
+
+
+## Video
+
+- [AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures](https://youtu.be/9r9WDzzTcr0)
