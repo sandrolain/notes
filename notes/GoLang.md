@@ -2,6 +2,9 @@
 
 ## Libraries
 
+- [**requests**: HTTP requests for Gophers](https://github.com/carlmjohnson/requests)
+- [**chi** is a lightweight, idiomatic and composable router for building Go HTTP services](https://github.com/go-chi/chi)
+- [**acopw**: Small cryptographically secure password generator package for Go](https://sr.ht/~jamesponddotco/acopw-go/)
 - [**Participle**: A dead simple parser package for Go](https://github.com/alecthomas/participle)
 - [**log**: A minimal and colorful Go logging library](https://github.com/charmbracelet/log)
 - [**env**: parse environment variables into structs](https://github.com/caarlos0/env)
@@ -40,6 +43,7 @@
 - [**go-colorful**: A library for playing with colors in go](https://github.com/lucasb-eyer/go-colorful)
 - [**zap**: Blazing fast, structured, leveled logging in Go](https://github.com/uber-go/zap)
 - [**sonic**: A blazingly fast JSON serializing & deserializing library](https://github.com/bytedance/sonic)
+- [**ogen**: OpenAPI v3 code generator for Go](https://ogen.dev/)
 
 ## Web Frameworks
 
@@ -88,6 +92,7 @@
 
 ### Libraries for Testing
 
+- [**go-cmp**: Package for equality of Go values](https://github.com/google/go-cmp)
 - [**Miniredis**: Pure Go Redis test server](https://github.com/alicebob/miniredis)
 - [**dockertest**: Use Docker to run your Golang integration tests against third party services](https://github.com/ory/dockertest)
 - [**smtpmock** is lightweight configurable multithreaded fake SMTP serve](https://github.com/mocktools/go-smtp-mock)
@@ -105,6 +110,8 @@
 
 ## Articles
 
+- [Go: When deferring a lock smells](https://medium.com/@deckarep/go-when-deferring-a-lock-smells-b265381a9f65)
+- [The Bubbletea (TUI) State Machine pattern](https://www.zackproser.com/blog/bubbletea-state-machine)
 - [Go's Error Handling Is a Form of Storytelling](https://preslav.me/2023/04/14/golang-error-handling-is-a-form-of-storytelling/)
 - [Error wrapping in Go](https://bitfieldconsulting.com/golang/wrapping-errors)
 - [Errors and Error Wrapping in Go](https://trstringer.com/errors-and-error-wrapping-go/)

@@ -3,6 +3,7 @@
 *This isn't awesome, maybe*
 
 - [Books](notes/Books.md)
+- [Agile](notes/Agile.md)
 - [Security](notes/Security.md)
 - [WebAssembly](notes/WebAssembly.md)
 - [GoLang](notes/GoLang.md)
@@ -16,7 +17,7 @@
 - [CSS](notes/CSS.md)
 - [Design System](notes/DesignSystem.md)
 - [UX](notes/UX.md)
-- [Custom Elements](CustomElements.md)
+- [Custom Elements](notes/CustomElements.md)
 - [Micro Frontends](notes/MicroFrontends.md)
 - [Micro Services](notes/MicroServices.md)
 - [AngularJS](notes/AngularJS.md)
@@ -42,6 +43,8 @@
 - [Computer Science](notes/ComputerScience.md)
 - [CI/CD](notes/CI.md)
 - [Architecture](notes/Architecture.md)
+- [IoT](notes/IoT.md)
+- [Network](notes/Network.md)
 
 ## Vendor
 

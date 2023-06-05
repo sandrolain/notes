@@ -1,5 +1,9 @@
 # Kubernetes
 
+## Guides
+
+- [Kubernetes Services: ClusterIP, Nodeport and LoadBalancer](https://sysdig.com/blog/kubernetes-services-clusterip-nodeport-loadbalancer/)
+
 ## K8S Flavours
 
 - [**kind** is a tool for running local Kubernetes clusters using Docker container “nodes”.](https://kind.sigs.k8s.io/)
@@ -32,7 +36,13 @@
 
 ## Other
 
+- [**Kairos**: The immutable Linux meta-distribution for edge Kubernetes](https://kairos.io/)
 - [**Kubefirst** provides fully-automated open source application delivery and infrastructure management](https://kubefirst.io/)
+
+# Articles
+
+- [Kubernetes Failure Stories](https://k8s.af/)
+
 
 ## Tools
 

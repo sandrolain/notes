@@ -77,6 +77,8 @@
 
 ## Articles
 
+- [Sharing WebSocket Connections between Browser Tabs and Windows](https://brightinventions.pl/blog/sharing-websocket-connections-between-browser-tabs-and-windows/)
+- [How large DOM sizes affect interactivity, and what you can do about it](https://web.dev/dom-size-and-interactivity/)
 - [Logging in Browser](https://gajus.medium.com/logging-in-browser-2f053dbe69df)
 
 ### DDD

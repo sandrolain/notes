@@ -18,4 +18,5 @@
 
 ## Articles
 
+- [2023-05-23: Multiple Layers of Abstraction in Design Systems](https://engineering.atspotify.com/2023/05/multiple-layers-of-abstraction-in-design-systems/)
 - [2022-01-21: From Chaos To System In Design Teams](https://www.smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/)

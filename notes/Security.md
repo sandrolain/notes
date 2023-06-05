@@ -28,6 +28,7 @@
 
 ## Authorization
 
+- [**OpenFGA**: Relationship-based access control made fast, scalable, and easy to use](https://openfga.dev/)
 - [**Open Policy Agent**: Policy-based control for cloud native environments](https://www.openpolicyagent.org/)
 - [**Topaz**: cloud-native authorization for modern applications and APIs](https://github.com/aserto-dev/topaz)
 - [**Cerbos**: The scalable, open-source authorization layer for implementing roles and permissions](https://cerbos.dev/)

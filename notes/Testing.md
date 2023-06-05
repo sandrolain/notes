@@ -1,5 +1,14 @@
 # Testing
 
+## Static Analysis
+
+- [SonarQube: clean code for teams and enterprises}](https://www.sonarsource.com/products/sonarqube/)
+- [Sonarlint for VSCode](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+
+## Guides
+
+- [Static Testing Techniques](https://www.testingdocs.com/static-testing-techniques/)
+
 ## Articles
 
 - [10 tips for better pull requests and code review](https://blog.codemagic.io/10-tips-for-better-pull-requests-and-code-review/)

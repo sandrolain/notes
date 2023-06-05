@@ -25,5 +25,6 @@
 
 ## Articles
 
+- [Practical Guide To Not Blocking The Event Loop](https://www.bbss.dev/posts/eventloop/)
 - [Dissecting Npm Malware: Five Packages And Their Evil Install Scripts](https://blog.sandworm.dev/dissecting-npm-malware-five-packages-and-their-evil-install-scripts)
 - [Building a modern gRPC-powered microservice using Node.js, Typescript, and Connect](https://blog.dopt.com/building-a-modern-grpc-powered-microservice)

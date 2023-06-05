@@ -12,6 +12,9 @@
 - [GoLang WebAssembly](https://github.com/golang/go/wiki/WebAssembly)
 - [Configure Go Build Constraints in VS Code to work with WebAssembly](https://egghead.io/lessons/go-configure-go-build-constraints-in-vs-code-to-work-with-webassembly)
 
+## With JavaScript
+- [**Javy**: A JavaScript to Webassembly toolchain](https://github.com/bytecodealliance/javy)
+
 ## Serverlesss WebAssembly
 
 - [**Spin** is a framework for building and running event-driven microservice applications with WebAssembly (Wasm) components.](https://developer.fermyon.com/spin/index)

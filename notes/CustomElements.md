@@ -31,6 +31,7 @@
 ## Other Frameworks Integrations
 
 - [React Web Components](https://it.reactjs.org/docs/web-components.html)
+  - [React to Web Component](https://github.com/bitovi/react-to-webcomponent)
 - [Angular elements](https://angular.io/guide/elements)
 - [Vue and Web Components](https://v3.vuejs.org/guide/web-components.html)
 - [Svelte Custom element API](https://svelte.dev/docs#run-time-custom-element-api)

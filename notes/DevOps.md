@@ -14,6 +14,8 @@
 
 ## Monitoring
 
+- [**EaseProbe** is a simple, standalone, and lightweight tool that can do health/status checking](https://github.com/megaease/easeprobe)
+
 
 ## Logging
 
@@ -51,4 +53,4 @@
 
 ## GitOps
 
-- [Guide To GitOps](https://www.weave.works/technologies/gitops/) 
+- [Guide To GitOps](https://www.weave.works/technologies/gitops/)
