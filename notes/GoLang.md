@@ -2,6 +2,8 @@
 
 ## Libraries
 
+[**Go Packagers PageRank**](https://www.grank.io/)
+
 - [**requests**: HTTP requests for Gophers](https://github.com/carlmjohnson/requests)
 - [**chi** is a lightweight, idiomatic and composable router for building Go HTTP services](https://github.com/go-chi/chi)
 - [**acopw**: Small cryptographically secure password generator package for Go](https://sr.ht/~jamesponddotco/acopw-go/)
@@ -45,6 +47,10 @@
 - [**sonic**: A blazingly fast JSON serializing & deserializing library](https://github.com/bytedance/sonic)
 - [**ogen**: OpenAPI v3 code generator for Go](https://ogen.dev/)
 
+## Web Apps
+
+- [**Goxygen**: Generate a Web project with Go and Angular, React or Vue](https://github.com/Shpota/goxygen)
+
 ## Web Frameworks
 
 - [**Echo**: High performance, extensible, minimalist Go web framework](https://echo.labstack.com/)
@@ -65,6 +71,7 @@
 
 ## Tools
 
+- [**buf**: is a tool for working with Protocol Buffers](https://buf.build/)
 - [**go-callvis** is a development tool to help visualize call graph of a Go program using interactive view](https://github.com/ofabry/go-callvis)
 - [**AIR**: Live reload for Go apps](https://github.com/cosmtrek/air)
 - [**UPX**: the Ultimate Packer for eXecutables](https://upx.github.io/)
@@ -90,8 +97,11 @@
 
 ## Testing
 
-### Libraries for Testing
+### Libraries and Tools for Testing
 
+- [**testify**: set of packages that provide many tools for testifying](https://github.com/stretchr/testify)
+- [**Ginkgo** is a mature testing framework for Go designed to help you write expressive specs](https://github.com/onsi/ginkgo)
+- [**gotestsum**: runs tests, prints formatted test output, and a summary of the test run](https://github.com/gotestyourself/gotestsum)
 - [**go-cmp**: Package for equality of Go values](https://github.com/google/go-cmp)
 - [**Miniredis**: Pure Go Redis test server](https://github.com/alicebob/miniredis)
 - [**dockertest**: Use Docker to run your Golang integration tests against third party services](https://github.com/ory/dockertest)
@@ -110,6 +120,7 @@
 
 ## Articles
 
+- [Go: Using pointers to reduce copies is premature optimization](https://trinitroglycerin.github.io/2023/06/10/Go-Using-pointers-to-reduce-copies-is-premature-optimization/)
 - [Go: When deferring a lock smells](https://medium.com/@deckarep/go-when-deferring-a-lock-smells-b265381a9f65)
 - [The Bubbletea (TUI) State Machine pattern](https://www.zackproser.com/blog/bubbletea-state-machine)
 - [Go's Error Handling Is a Form of Storytelling](https://preslav.me/2023/04/14/golang-error-handling-is-a-form-of-storytelling/)

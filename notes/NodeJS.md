@@ -23,6 +23,15 @@
 - [**Linker.js** is a foreign function interface for Node.js](https://github.com/bitair-org/linker.js)
 - [**Concurrent.js** is a dynamic module importer](https://github.com/bitair-org/concurrent.js)
 
+### Kubernetes
+
+- [**termius**: Adds graceful shutdown and Kubernetes readiness / liveness checks for any HTTP applications](https://github.com/godaddy/terminus)
+
+
+## Debugging
+
+- [An Introduction To Debugging In Node.Js](https://blog.openreplay.com/an-introduction-to-debugging-in-nodejs/)
+
 ## Articles
 
 - [Practical Guide To Not Blocking The Event Loop](https://www.bbss.dev/posts/eventloop/)

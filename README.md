@@ -45,6 +45,7 @@
 - [Architecture](notes/Architecture.md)
 - [IoT](notes/IoT.md)
 - [Network](notes/Network.md)
+- [MacOS](notes/MacOS.md)
 
 ## Vendor
 
