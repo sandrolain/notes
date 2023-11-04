@@ -56,6 +56,7 @@
 
 ## Articles
 
+- [2023-05-25: Micro-frontend Migration Journey – Part 1: Design](https://thesametech.com/micro-frontend-migration-journey-part-1/)
 - [2022-10-21: Contract Testing MicroFrontends](https://donkeycoder.medium.com/contract-testing-microfrontends-d35ef36bda1b)
 - [2022-03-01: Luca Mezzalira: The Future of Micro-Frontends](https://medium.com/@lucamezzalira/the-future-of-micro-frontends-2f527f97d506)
 - [2022-02-10: Behind leroymerlin.fr: Micro Frontends](https://medium.com/adeo-tech/behind-leroymerlin-fr-micro-frontends-47fd7c53f99d)

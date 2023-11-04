@@ -8,6 +8,8 @@ php -S localhost:8080 -t public index.php"
 
 ## Libraries
 
+- [**php-image-resize**: PHP library to resize, scale and crop images.](https://github.com/gumlet/php-image-resize)
+- [**Dompdf** is an HTML to PDF converter](https://github.com/dompdf/dompdf)
 - [**Slim** is a PHP micro framework](https://www.slimframework.com/)
 - [**Shortcode**](https://github.com/thunderer/Shortcode)
 

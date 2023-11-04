@@ -18,6 +18,10 @@
 
 - [Container security best practices](https://sysdig.com/blog/container-security-best-practices/)
 
+## Services
+
+- [How to implement security for microservices](https://medium.com/microservices-learning/how-to-implement-security-for-microservices-89b140d3e555)
+
 ## Guides
 
 - [Manually generating your SSH key in macOS](https://docs.tritondatacenter.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-mac-os-x)

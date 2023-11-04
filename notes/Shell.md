@@ -23,3 +23,7 @@ ZSH_THEME="agnoster"
 
 plugins=(git kubectl docker docker-compose iterm2 brew)
 ```
+
+### Zsh Kubernetes
+
+- [kube-ps1: Kubernetes prompt for bash and zsh](https://github.com/jonmosco/kube-ps1)

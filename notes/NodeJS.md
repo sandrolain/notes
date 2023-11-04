@@ -17,6 +17,7 @@
 ### Testing
 
 - [Jest Fetch Mock](https://github.com/jefflau/jest-fetch-mock)
+- [**jest-extended**: Additional Jest matchers 🃏💪](https://jest-extended.jestcommunity.dev/)
 
 ### Languages interoperability
 

@@ -4,48 +4,131 @@
 
 [**Go Packagers PageRank**](https://www.grank.io/)
 
-- [**requests**: HTTP requests for Gophers](https://github.com/carlmjohnson/requests)
-- [**chi** is a lightweight, idiomatic and composable router for building Go HTTP services](https://github.com/go-chi/chi)
-- [**acopw**: Small cryptographically secure password generator package for Go](https://sr.ht/~jamesponddotco/acopw-go/)
+### Other
+
 - [**Participle**: A dead simple parser package for Go](https://github.com/alecthomas/participle)
+
+### Logging
+
 - [**log**: A minimal and colorful Go logging library](https://github.com/charmbracelet/log)
+- [**zap**: Blazing fast, structured, leveled logging in Go](https://github.com/uber-go/zap)
+
+### Environment
+
 - [**env**: parse environment variables into structs](https://github.com/caarlos0/env)
+- [**GoDotEnv**: A Go (golang) port of the Ruby dotenv project](https://github.com/joho/godotenv)
+
+### Frameworks
+
 - [**Bud**: The Full-Stack Web Framework for Go](https://github.com/livebud/bud)
+
+### Validation
+
 - [**Package validator** implements value validations for structs and individual fields based on tags](https://github.com/go-playground/validator)
+
+### Encoding/Decoding
+
+- [**sonic**: A blazingly fast JSON serializing & deserializing library](https://github.com/bytedance/sonic)
 - [**urlquery**: A URL Query string Encoder and Parser](https://github.com/hetiansu5/urlquery)
 - [**go-toml**: Go library for the TOML format](https://github.com/pelletier/go-toml)
 - [**go-yaml**: YAML support for the Go language](https://github.com/go-yaml/yaml)
-- [**flashdb**: FlashDB is a simple, in-memory, key/value store in pure Go](https://github.com/arriqaaq/flashdb)
-- [**dlgs**: is a cross-platform library for displaying dialogs and input boxes](https://github.com/gen2brain/dlgs)
+- [**base36**: Base36 implementation in golang](https://github.com/martinlindhe/base36)
+
+## Desktop integration
+
+- ~~[**dlgs**: is a cross-platform library for displaying dialogs and input boxes](https://github.com/gen2brain/dlgs)~~
 - [**beeep** provides a cross-platform library for sending desktop notifications, alerts and beeps](https://github.com/gen2brain/beeep)
-- [**fasthttp**: Fast HTTP implementation for Go](https://github.com/valyala/fasthttp)
-- [**lo** is a Lodash-style Go library based on Go 1.18+ Generics.](https://github.com/samber/lo)
-- [**Go Util**: Useful utils for the Go: string, array/slice, map, format, CLI, ENV, filesystem, testing](https://github.com/gookit/goutil)
-- [**Olric**: Distributed cache and in-memory key/value data store](https://github.com/buraksezer/olric)
+
+### Cache
+
+- [**Ristretto**: In-memory cache](https://github.com/dgraph-io/ristretto)
 - [**FreeCache**: A cache library for Go with zero GC overhead and high concurrent performance](https://github.com/coocood/freecache)
-- [**Resty**: Simple HTTP and REST client library for Go](https://github.com/go-resty/resty)
-- [GeoService in Go](https://github.com/codingsince1985/geo-golang)
 - [Redis client for Golang](https://github.com/go-redis/redis)
 - [**ruedis**: A fast Golang Redis client that does auto pipelining and supports client side caching](https://github.com/redis/rueidis)
-- [**Bolt**: Bolt is a pure Go key/value store](https://github.com/boltdb/bolt)
-- [Go-MySQL-Driver](https://github.com/go-sql-driver/mysql)
-- [bimg: fast high-level image processing](https://github.com/h2non/bimg)
-- [GoDotEnv](https://github.com/joho/godotenv)
-- [go-qrcode](https://github.com/yeqown/go-qrcode)
-- [Gomail](https://pkg.go.dev/gopkg.in/mail.v2)
-- [Ristretto (In-memory cache)](https://github.com/dgraph-io/ristretto)
-- [GoAdmin: Backend Data Admin Panel](https://www.go-admin.com/)
+
+### Geolocation / Geocoding
+
+- [GeoService in Go](https://github.com/codingsince1985/geo-golang)
+
+### Image Processing
+
+- [**bimg**: fast high-level image processing](https://github.com/h2non/bimg)
+
+### Emails
+
+- [**Gomail**](https://pkg.go.dev/gopkg.in/mail.v2)
+
+### Admin Panel
+
+- [**GoAdmin**: Backend Data Admin Panel](https://www.go-admin.com/)
+
+### Reactivity
+
 - [**retry-go**: Simple golang library for retry mechanism](https://github.com/avast/retry-go)
+
+### Templating
+
+- [**stick**: A golang port of the Twig templating engine](https://github.com/tyler-sommer/stick)
+
+### JWT
+
+- [**jwt**: A go implementation of JSON Web Tokens](https://github.com/golang-jwt/jwt)
+
+## OpenAPI
+
+- [**ogen**: OpenAPI v3 code generator for Go](https://ogen.dev/)
+
+### Passwords
+
+- [**acopw**: Small cryptographically secure password generator package for Go](https://sr.ht/~jamesponddotco/acopw-go/)
+
+### HTTP Routing / Server
+
+- [**fasthttp**: Fast HTTP implementation for Go](https://github.com/valyala/fasthttp)
+- [**chi** is a lightweight, idiomatic and composable router for building Go HTTP services](https://github.com/go-chi/chi)
+- [**mux**: A powerful HTTP router and URL matcher for building Go web servers with 🦍](https://github.com/gorilla/mux)
+
+## ID generation
+
+- [**TypeID**: A type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
 - [**xid** is a globally unique id generator thought for the web](https://github.com/rs/xid)
 - [**go-nanoid**: Golang random IDs generat](https://github.com/matoous/go-nanoid)
-- [**base36**: Base36 implementation in golang](https://github.com/martinlindhe/base36)
-- [**mux**: A powerful HTTP router and URL matcher for building Go web servers with 🦍](https://github.com/gorilla/mux) (*Deprecated*)
-- [**stick**: A golang port of the Twig templating engine](https://github.com/tyler-sommer/stick)
-- [**jwt**: A go implementation of JSON Web Tokens](https://github.com/golang-jwt/jwt)
+
+### Colors
+
+- [**noire**: A color library which supports converting](https://github.com/teacat/noire)
+- [**prominentcolor**: Find the K most dominant colors in an image](https://github.com/EdlinOrg/prominentcolor)
 - [**go-colorful**: A library for playing with colors in go](https://github.com/lucasb-eyer/go-colorful)
-- [**zap**: Blazing fast, structured, leveled logging in Go](https://github.com/uber-go/zap)
-- [**sonic**: A blazingly fast JSON serializing & deserializing library](https://github.com/bytedance/sonic)
-- [**ogen**: OpenAPI v3 code generator for Go](https://ogen.dev/)
+
+### QRCode
+
+- [**go-qrcode**](https://github.com/yeqown/go-qrcode)
+
+### Data manipulation
+
+- [**lo** is a Lodash-style Go library based on Go 1.18+ Generics.](https://github.com/samber/lo)
+- [**Copier**: I am a copier, I copy everything from one to another](https://github.com/jinzhu/copier)
+- [**Go Util**: Useful utils for the Go: string, array/slice, map, format, CLI, ENV, filesystem, testing](https://github.com/gookit/goutil)
+
+### HTTP Client
+
+- [**Resty**: Simple HTTP and REST client library for Go](https://github.com/go-resty/resty)
+- [**requests**: HTTP requests for Gophers](https://github.com/carlmjohnson/requests)
+
+### Database
+
+- [**GORM**: The fantastic ORM library for Golang](https://gorm.io/)
+- [**flashdb**: FlashDB is a simple, in-memory, key/value store in pure Go](https://github.com/arriqaaq/flashdb)
+- [Go-MySQL-Driver](https://github.com/go-sql-driver/mysql)
+
+### SLOG
+
+- [**slog: Fiber** middleware](https://github.com/samber/slog-fiber)
+- [**tint**: 🌈 slog.Handler that writes tinted logs](https://github.com/lmittmann/tint)
+
+### TypeScript integration
+
+- [A Golang JSON to TypeScript model converter](https://github.com/tkrajina/typescriptify-golang-structs)
 
 ## Web Apps
 
@@ -71,12 +154,18 @@
 
 ## Tools
 
+- [**Govulncheck** is a command-line tool that helps Go users find known vulnerabilities](https://go.dev/blog/govulncheck)
+- [**gotools**: A Go tool to update your Go tools.](https://gitlab.com/zephyrtronium/gotools)
 - [**buf**: is a tool for working with Protocol Buffers](https://buf.build/)
 - [**go-callvis** is a development tool to help visualize call graph of a Go program using interactive view](https://github.com/ofabry/go-callvis)
 - [**AIR**: Live reload for Go apps](https://github.com/cosmtrek/air)
 - [**UPX**: the Ultimate Packer for eXecutables](https://upx.github.io/)
 - [Go Cover Treemap](https://go-cover-treemap.io/)
 - [**gops** is a command to list and diagnose Go processes currently running on your system](https://github.com/google/gops)
+
+## gRPC
+
+- [Organize gRPC and protobuf code in Golang](https://rkiselenko.dev/blog/grpc-in-golang/)
 
 ## Profiling
 
@@ -120,6 +209,7 @@
 
 ## Articles
 
+- [Golang: graceful shutdown](https://dev.to/antonkuklin/golang-graceful-shutdown-3n6d)
 - [Go: Using pointers to reduce copies is premature optimization](https://trinitroglycerin.github.io/2023/06/10/Go-Using-pointers-to-reduce-copies-is-premature-optimization/)
 - [Go: When deferring a lock smells](https://medium.com/@deckarep/go-when-deferring-a-lock-smells-b265381a9f65)
 - [The Bubbletea (TUI) State Machine pattern](https://www.zackproser.com/blog/bubbletea-state-machine)

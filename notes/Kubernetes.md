@@ -16,6 +16,10 @@
 
 - [**Meshery**: the extensible Kubernetes manager](https://meshery.io/)
 
+## Ingress
+
+- [**Caddy** Ingress Controller](https://github.com/caddyserver/ingress)
+
 ## Service Mesh
 
 - [**Istio**: Simplify observability, traffic management, security, and policy with the leading service mesh](https://istio.io/)
@@ -47,3 +51,9 @@
 ## Tools
 
 - [**Headlamp** is a user-friendly Kubernetes UI focused on extensibility](https://headlamp.dev/)
+
+
+## Watchers
+
+- [**kubewatch** is a Kubernetes watcher that publishes notification](https://github.com/robusta-dev/kubewatch)
+- [**Reloder**](https://github.com/stakater/Reloader)
