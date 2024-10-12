@@ -70,9 +70,10 @@
 
 - [**stick**: A golang port of the Twig templating engine](https://github.com/tyler-sommer/stick)
 
-### JWT
+### JWT / JOSE
 
 - [**jwt**: A go implementation of JSON Web Tokens](https://github.com/golang-jwt/jwt)
+- [**JWX**: Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies](https://github.com/lestrrat-go/jwx)
 
 ## OpenAPI
 
